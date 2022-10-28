@@ -1,0 +1,22 @@
+#level{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 100px;
+
+}
+#level div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px solid rgb(5, 6, 6);
+    width: 25%;
+    height: 200px;
+    background-color: rgba(2, 2, 2, 0.918);
+    margin: 10px;
+    box-shadow: -5px 5px 5px 0 rgba(237, 233, 233, 0.365);
+    
+}
+#level div a{
+    text-decoration: none;
+    font-size: larger;
+}

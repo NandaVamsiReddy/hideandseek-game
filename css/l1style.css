@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+    background-color: rgb(167, 228, 208);
+}
+#button-group{
+    position: absolute;
+    left: 35%;
+    top: 18%;
+    width: 30%;
+    /* border: 2px solid black; */
+    /* background-color: cadetblue; */
+}
+#button-group button{
+    padding: 12%;
+    background: linear-gradient(to left,gray,pink);
+}
